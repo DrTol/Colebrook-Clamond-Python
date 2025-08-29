@@ -35,7 +35,7 @@ Clamond (2008) introduced a quartic iteration algorithm that is:
 
 ## Installation
 ```
-git clone https://github.com/YourUserName/Colebrook-Clamond-Python.git
+git clone https://github.com/DrTol/Colebrook-Clamond-Python.git
 cd Colebrook-Clamond-Python
 ```
 
